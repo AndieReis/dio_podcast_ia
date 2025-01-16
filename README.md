@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".dio_podcast_ia/assets/banner.png">
+    <img width="100" src=".dio_podcast_ia/assets/images/banner.png">
 </p>
 
 
@@ -30,7 +30,7 @@ Projeto com o objetivo de gerar um podcast digital com as facilidades das ferram
 ## 🧠 Prompts
 
 
-Prompts disponíveis [Aqui](sour
+Prompts disponíveis `assets`
 
 
 
@@ -43,7 +43,8 @@ Prompts disponíveis [Aqui](sour
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
+- Imagens utilizadas em `assets\images`
+- Audios utilizadas em `assets\medias`
 - Podcast gerados durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
