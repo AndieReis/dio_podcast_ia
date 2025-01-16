@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".dio_podcast_ia/assets/images/banner.png">
+    <img width="100" src="/dio_podcast_ia/assets/images/banner.png">
 </p>
 
 
@@ -18,6 +18,10 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso Criando um Podcast com IAs Generativas na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast digital com as facilidades das ferramentas de IA. Todos os prompts e roteiros estão disponíveis em assets.
+
+## ## ✨ PODCAST
+
+Confira o resultado final [Aqui](https://youtu.be/tEghEQ4oyao)
 
 
 ## 💻 Tecnologias utilizadas no projeto
